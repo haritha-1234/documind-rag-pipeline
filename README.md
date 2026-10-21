@@ -181,5 +181,5 @@ Each component is independent and swappable:
 
 **haritha-1234**
 Data Science trainer | Hamburg, Germany
-[LinkedIn](http://linkedin.com/in/haritha-retnakaran-341448162/)
+[LinkedIn](http://linkedin.com/in/haritha-retnakaran-341448162/) .
 [GitHub](https://github.com/haritha-1234)
